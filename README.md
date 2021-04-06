@@ -12,3 +12,4 @@ https://learn.adafruit.com/adafruit-rgb-matrix-plus-real-time-clock-hat-for-rasp
 
 **GitHub Repo Refereces:**
 https://github.com/hzeller/rpi-rgb-led-matrix/tree/master/bindings/python/samples
+https://learn.adafruit.com/rotary-encoder?view=all
