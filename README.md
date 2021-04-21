@@ -10,9 +10,10 @@ Can be used to increase literacy rate among poorer regions and teach basic math 
 **Running the Demos**
 1. Go to your terminal
 2. Type `cd rpi=rgb-led-matrix`
-3. Type `cd examples-api-use`
-4. Now that you are in the correct folder, type `sudo ./demo -D`
-5. A menu will pop up with commands on how to use certain demos
+3. Now that you are in the correct folder, type `sudo examples-api-use/demo -D`
+4. A menu will pop up with commands on how to use certain demos
+
+4A. Use `sudo examples-api-use/demo --led-gpio-mapping=adafruit-hat -t 15 -D 1 /home/pi/rpi-rgb-led-matrix/examples-api-use/Words.ppm` to see the working demo
 
 
 **Tutorials used:**
